@@ -20,5 +20,5 @@
 	References used: https://jasmine.github.io/2.2/introduction<br>
 </p>
 <p>
-	Link to Project: 
+	Link to Project: https://shruti2908.github.io/UdacityFeedreaderTesting/
 </p>

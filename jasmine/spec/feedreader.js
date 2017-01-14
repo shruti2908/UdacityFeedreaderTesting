@@ -107,7 +107,7 @@ $(function() {
 
             loadFeed(0, function() {
                 oldFeed = $('.entry').html();
-                done();
+                
             });
         });
 
